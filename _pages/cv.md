@@ -33,7 +33,7 @@ Project Experience
 
   Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and evaluated deterministic and probabilistic models across multiple forecasting horizons.
 
-* **Knowledge-Graph Enhanced Mixture-of-Experts Language Model**, 2025.10 - 2025.12
+* **KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model**, 2025.10 - 2025.12
 
   Team leader for data processing, model design, and training of a GCN + Transformer Decoder + Dense MoE architecture on a small LOTR corpus.
 

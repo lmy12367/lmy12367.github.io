@@ -25,6 +25,7 @@ News
 
 * 2026.05: Launched this academic homepage on GitHub Pages.
 * 2026.04: Completed a traffic speed forecasting project with robustness evaluation under missing inputs.
+* 2025.12: Completed KG-MOE, a knowledge-graph enhanced mixture-of-experts language-modeling project.
 * 2025.12: Started a research project on UAV 3D coverage path planning with reinforcement learning and evolutionary search.
 * 2025.09: Began MSc study in Computer Science at the University of Nottingham Ningbo China.
 
@@ -49,7 +50,7 @@ Designed a three-layer supply-chain environment for studying cooperation, compet
 
 Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and evaluated robustness under random masking and road-wise outage settings.
 
-**Knowledge-Graph Enhanced Mixture-of-Experts Language Model**
+**KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model**
 
 Built a small-corpus language-modeling pipeline with BPE tokenization, GCN-enhanced knowledge representations, Transformer decoding, and dense MoE components.
 
