@@ -7,6 +7,8 @@ date: 2026-05-11
 
 This project builds a three-layer supply-chain simulation environment with six competing retailers, upstream contracts, midstream alliances, promotion budgets, and market-intelligence mechanisms. The environment supports cooperative, adversarial, and mixed-game structures.
 
+[GitHub repository](https://github.com/lmy12367/4125Designing-Intelligent-Agents)
+
 I served as team leader and worked on environment design, agent implementation, and experimental code. The project includes LLM agents, DQN, PPO, and heuristic baselines. Local LLMs are called through a Chat Completions style API to generate structured JSON actions.
 
 To improve LLM-agent behavior, I added scenario memory and an Experience RAG mechanism. The experiments compare agent decisions under different market-information settings and model choices.

@@ -20,6 +20,12 @@ Research Interests
 * 3D path planning, coverage planning, and optimization
 * Robust machine learning systems and applied software engineering
 
+Education
+======
+
+* MSc in Computer Science, University of Nottingham Ningbo China, 2025.09 - 2027.07 expected
+* BEng in Software Engineering, Hefei University of Technology, 2018.09 - 2022.07
+
 News
 ======
 
@@ -46,6 +52,8 @@ Selected Projects
 
 Designed a three-layer supply-chain environment for studying cooperation, competition, and mixed-game dynamics among LLM agents, RL agents, and heuristic baselines.
 
+[GitHub repository](https://github.com/lmy12367/4125Designing-Intelligent-Agents)
+
 **Short-Term Traffic Speed Forecasting**
 
 Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and evaluated robustness under random masking and road-wise outage settings.
@@ -63,11 +71,17 @@ Implemented a greedy, 2-opt, and GA-inspired hybrid heuristic for 3D viewpoint s
 Experience
 ======
 
+**Backend Development Intern, Nanjing Putuo Information Technology Co., Ltd.**
+
+2021.09 - 2022.07
+
+Worked on Spring Boot backend development, module integration, Linux-based development environments, and Git collaboration workflows.
+
 **Backend Development Engineer, Nanjing Putuo Information Technology Co., Ltd.**
 
-2021.09 - 2025.05
+2022.07 - 2025.05
 
-Worked on Spring Boot backend development, core API implementation, module integration, issue diagnosis, Linux-based development environments, and Git collaboration workflows.
+Worked on core business API implementation, integration testing, issue diagnosis, and iterative delivery of backend business features.
 
 Contact
 ======
