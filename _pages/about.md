@@ -73,13 +73,13 @@ Experience
 
 **Backend Development Intern, Nanjing Putuo Information Technology Co., Ltd.**
 
-2021.09 - 2022.07
+2021.09 - 2022.04
 
 Worked on Spring Boot backend development, module integration, Linux-based development environments, and Git collaboration workflows.
 
 **Backend Development Engineer, Nanjing Putuo Information Technology Co., Ltd.**
 
-2022.07 - 2025.05
+2022.04 - 2025.05
 
 Worked on core business API implementation, integration testing, issue diagnosis, and iterative delivery of backend business features.
 
