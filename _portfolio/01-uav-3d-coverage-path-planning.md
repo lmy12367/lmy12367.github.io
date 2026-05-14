@@ -2,6 +2,7 @@
 title: "UAV 3D Coverage Path Planning Research"
 excerpt: "A research project on PPO-guided evolutionary search, symbolic scoring, and 3-cover coverage path planning over discrete 3D viewpoint graphs."
 collection: portfolio
+date: 2026-05-05
 ---
 
 This research project studies 3-cover coverage path planning on discrete 3D viewpoint graphs. The goal is to jointly optimize viewpoint selection, camera orientation, and closed-loop routes while reducing energy cost, capture cost, and coverage-quality gaps.

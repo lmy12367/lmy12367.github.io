@@ -2,6 +2,7 @@
 title: "KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model"
 excerpt: "A small-corpus language-modeling project using BPE tokenization, GCN knowledge representations, Transformer decoding, and dense MoE components."
 collection: portfolio
+date: 2025-12-22
 ---
 
 KG-MOE is a machine-learning course project exploring knowledge-graph augmented language modeling on a small LOTR corpus. I served as team leader for Task 1, covering data processing, model design, and training.

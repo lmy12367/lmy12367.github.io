@@ -2,6 +2,7 @@
 title: "Short-Term Traffic Speed Forecasting"
 excerpt: "A leakage-safe traffic forecasting pipeline with robustness evaluation under random masking and road-wise outage settings."
 collection: portfolio
+date: 2026-05-06
 ---
 
 This individual project builds a leakage-safe time-series forecasting pipeline for Guangzhou urban traffic speed data. The data contains 214 roads, 61 days, and 10-minute panel observations, split chronologically for training, validation, and testing.

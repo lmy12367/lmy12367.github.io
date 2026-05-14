@@ -2,6 +2,7 @@
 title: "Multi-Agent Supply Chain Competition Simulation"
 excerpt: "A multi-agent systems project exploring cooperation, competition, and mixed-game dynamics among LLM agents, RL agents, and heuristic baselines."
 collection: portfolio
+date: 2026-05-11
 ---
 
 This project builds a three-layer supply-chain simulation environment with six competing retailers, upstream contracts, midstream alliances, promotion budgets, and market-intelligence mechanisms. The environment supports cooperative, adversarial, and mixed-game structures.
