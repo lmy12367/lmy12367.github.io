@@ -10,4 +10,3 @@ author_profile: true
 * [Home]({{ base_path }}/)
 * [Projects]({{ base_path }}/projects/)
 * [CV]({{ base_path }}/cv/)
-* [Publications]({{ base_path }}/publications/)
