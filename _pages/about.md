@@ -48,29 +48,34 @@ This project studies 3-cover coverage path planning on discrete 3D viewpoint gra
 Selected Projects
 ======
 
-**Multi-Agent Supply Chain Competition Simulation**
+**[Multi-Agent Supply Chain Competition Simulation](/projects/02-multi-agent-supply-chain/)**
 
 Designed a three-layer supply-chain environment for studying cooperation, competition, and mixed-game dynamics among LLM agents, RL agents, and heuristic baselines.
 
-[GitHub repository](https://github.com/lmy12367/4125Designing-Intelligent-Agents)
+[Project page](/projects/02-multi-agent-supply-chain/){: .btn .btn--primary}
+[GitHub](https://github.com/lmy12367/4125Designing-Intelligent-Agents){: .btn .btn--inverse}
 
-**Short-Term Traffic Speed Forecasting**
+**[Short-Term Traffic Speed Forecasting](/projects/03-traffic-speed-forecasting/)**
 
 Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and evaluated robustness under random masking and road-wise outage settings.
 
-**KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model**
+[Project page](/projects/03-traffic-speed-forecasting/){: .btn .btn--primary}
+
+**[KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model](/projects/04-kg-moe-language-model/)**
 
 Built a small-corpus language-modeling pipeline with BPE tokenization, GCN-enhanced knowledge representations, Transformer decoding, and dense MoE components.
 
-[GitHub repository](https://github.com/lmy12367/KG-MOE-Knowledge-Graph-Enhanced-Mixture-of-Experts-Language-Model)
+[Project page](/projects/04-kg-moe-language-model/){: .btn .btn--primary}
+[GitHub](https://github.com/lmy12367/KG-MOE-Knowledge-Graph-Enhanced-Mixture-of-Experts-Language-Model){: .btn .btn--inverse}
 
-**AADS 3D Viewpoint Path Planning Optimizer**
+**[AADS 3D Viewpoint Path Planning Optimizer](/projects/05-aads-3d-path-planning/)**
 
 Implemented a greedy, 2-opt, and GA-inspired hybrid heuristic for 3D viewpoint selection and path optimization under collision constraints.
 
-[GitHub repository](https://github.com/lmy12367/AADS-3D-Viewpoint-Path-Planning-Optimizer)
+[Project page](/projects/05-aads-3d-path-planning/){: .btn .btn--primary}
+[GitHub](https://github.com/lmy12367/AADS-3D-Viewpoint-Path-Planning-Optimizer){: .btn .btn--inverse}
 
-[View project details](/projects/)
+[All projects](/projects/){: .btn}
 
 Experience
 ======
