@@ -62,9 +62,13 @@ Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and e
 
 Built a small-corpus language-modeling pipeline with BPE tokenization, GCN-enhanced knowledge representations, Transformer decoding, and dense MoE components.
 
+[GitHub repository](https://github.com/lmy12367/KG-MOE-Knowledge-Graph-Enhanced-Mixture-of-Experts-Language-Model)
+
 **AADS 3D Viewpoint Path Planning Optimizer**
 
 Implemented a greedy, 2-opt, and GA-inspired hybrid heuristic for 3D viewpoint selection and path optimization under collision constraints.
+
+[GitHub repository](https://github.com/lmy12367/AADS-3D-Viewpoint-Path-Planning-Optimizer)
 
 [View project details](/projects/)
 

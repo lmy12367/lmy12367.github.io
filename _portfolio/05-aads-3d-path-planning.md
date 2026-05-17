@@ -7,4 +7,6 @@ date: 2025-12-14
 
 This individual algorithms project implements a hybrid optimization method for 3D viewpoint selection and path planning under collision constraints.
 
+[GitHub repository](https://github.com/lmy12367/AADS-3D-Viewpoint-Path-Planning-Optimizer)
+
 The solver combines greedy coverage scoring, BFS nearest-neighbor routing, 2-opt improvement, GA-inspired search, direction repair, and viewpoint pruning. The method is designed to produce feasible and improved routes for constrained 3D planning tasks.
