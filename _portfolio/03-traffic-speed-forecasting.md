@@ -10,3 +10,5 @@ This individual project builds a leakage-safe time-series forecasting pipeline f
 I compared Seasonal Naive, Linear Regression, Random Forest, Matrix Factorization with latent VAR, and online probabilistic low-rank models. The evaluation covers 10, 30, and 60-minute forecasting horizons using RMSE, MAE, sMAPE, NLL, and CRPS.
 
 The project also includes robustness experiments under random masking and road-wise outage conditions to test model behavior when traffic inputs are incomplete.
+
+[GitHub repository](https://github.com/lmy12367/traffic-speed-forecasting-robustness)

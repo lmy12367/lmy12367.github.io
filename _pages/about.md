@@ -60,6 +60,7 @@ Designed a three-layer supply-chain environment for studying cooperation, compet
 Built a leakage-safe forecasting pipeline for Guangzhou traffic speed data and evaluated robustness under random masking and road-wise outage settings.
 
 [Project page](/projects/03-traffic-speed-forecasting/){: .btn .btn--primary}
+[GitHub](https://github.com/lmy12367/traffic-speed-forecasting-robustness){: .btn .btn--inverse}
 
 **[KG-MOE: Knowledge-Graph Enhanced Mixture-of-Experts Language Model](/projects/04-kg-moe-language-model/)**
 
